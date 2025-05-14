@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=End-to-end+news+scraping" alt="Typing SVG" /></a>
+  <iframe src="https://drive.google.com/file/d/10qEs9j3TdOpLp2Xh7fKIko1vGpo8OhGg/preview" width="50%" height="50%" allow="autoplay"></iframe>
 </p>
 
 <p align="center">
@@ -18,19 +18,21 @@
     <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white">
   <img alt="Numpy" title="Numpy" src="https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff"/>
     <img alt="Scikit Learn" title="Scikit Learn" src="https://img.shields.io/badge/Scikit%20Learn-F38020?logo=scikitlearn&logoColor=white"/>
+  <img alt="FastApi" src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white">
 </p>
 
 <p align="center">
     <img alt="Streamlit" title="Streamlit" src="https://img.shields.io/badge/Streamlit-%23DD0031.svg?logo=streamlit&logoColor=white"/>
-    <img alt="Cloudflare" title="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white"/>
+  <img alt="Ngrok" title="Ngrok" src="https://img.shields.io/badge/Ngrok-512BD4?logo=ngrok&logoColor=fff"/>
 </p>
 
 ---
 
 ### Overview
-- **Dataset**
-- **User Interface**
-- **Models**
+- **Goals** -- Provide physical bullying classifier to identify physical bullying type.
+- **Dataset** -- Using secondary data pulled from `https://www.brain-cog.network/dataset/Bullying10k/`. Dataset contain bullying action with `.npy` forrmat that represent action in frames.
+- **User Interface** -- Build using streamlit module, contain four pages (Classifier, Model Breakdown, Bullying 101, Bullying Case Files).
+- **Models** -- Trained 3 models. Best model will be deploy on streamlit that can be accessed through ngrok local tunnel.
 
 ---
 
