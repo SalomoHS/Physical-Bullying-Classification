@@ -2,9 +2,8 @@
   <h3 align="center">Physical Bullying Detection</h3>
 </p>
 
-<p align="center">
-  <iframe src="https://drive.google.com/file/d/10qEs9j3TdOpLp2Xh7fKIko1vGpo8OhGg/preview" width="50%" height="50%" allow="autoplay"></iframe>
-</p>
+<iframe src="https://drive.google.com/file/d/10qEs9j3TdOpLp2Xh7fKIko1vGpo8OhGg/preview" width="50%" height="50%" allow="autoplay"></iframe>
+
 
 <p align="center">
   Building 3D Convolutional Neural Network (CNN) to classify bullying action
