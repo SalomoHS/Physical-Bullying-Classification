@@ -2,7 +2,7 @@
   <h3 align="center">Physical Bullying Detection</h3>
 </p>
 <p align="center">
-  [<h3 align="center">Physical Bullying Detection</h3>](https://github.com/user-attachments/assets/d7ba88b4-54f6-470f-9c42-7a2d1dcbedb0)
+  https://github.com/user-attachments/assets/d7ba88b4-54f6-470f-9c42-7a2d1dcbedb0
 </p>
 
 
