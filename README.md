@@ -1,10 +1,6 @@
 <p align="center">
   <h3 align="center">Physical Bullying Detection</h3>
 </p>
-<p align="center">
-  https://github.com/user-attachments/assets/d7ba88b4-54f6-470f-9c42-7a2d1dcbedb0
-</p>
-
 
 
 <p align="center">
@@ -26,6 +22,10 @@
     <img alt="Streamlit" title="Streamlit" src="https://img.shields.io/badge/Streamlit-%23DD0031.svg?logo=streamlit&logoColor=white"/>
   <img alt="Ngrok" title="Ngrok" src="https://img.shields.io/badge/Ngrok-512BD4?logo=ngrok&logoColor=fff"/>
 </p>
+
+---
+
+https://github.com/user-attachments/assets/d7ba88b4-54f6-470f-9c42-7a2d1dcbedb0
 
 ---
 
