@@ -27,15 +27,6 @@
     <a href="https://drive.google.com/file/d/10qEs9j3TdOpLp2Xh7fKIko1vGpo8OhGg/view?usp=sharing">
       <img src="https://custom-icon-badges.demolab.com/badge/-Click%20Me%20to%20View%20Demo%20Video-000000?style=for-the-badge&logoColor=white" title="Demo Video" alt="Demo Video"/></a>
   </p>
-  
-<p align="center">
-    <a href="https://drive.google.com/file/d/10qEs9j3TdOpLp2Xh7fKIko1vGpo8OhGg/view?usp=sharing">Web application demo video</a>
-</p>
-
-
----
-
-
 
 ---
 
