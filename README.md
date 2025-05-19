@@ -1,5 +1,5 @@
 <p align="center">
-  <h3 align="center">Physical Bullying Detection</h3>
+  <h3 align="center">Physical Bullying Classification</h3>
 </p>
 
 
